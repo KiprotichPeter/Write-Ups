@@ -37,4 +37,4 @@
   * `strings | grep pico`
   * ![Screenschot6 text](Screenshot6.png)
   * Flag: *picoCTF{b1scu1ts_4nd_gr4vy_18788aaa}*
-  * ![Screenschot7 text](Screenshot7.png) 
+  * ![Screenschot7 text](Screenshot7.png)
