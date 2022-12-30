@@ -14,7 +14,7 @@
   * -h and --help are the most common arguments to give to programs to get more information from them!
   * Not every program implements help features like -h and --help.
 * ![Screenschot1 text](Screenshot1.png)
-* *Objective:*
+* *Objective:* 
   * Find the flag inside the provided flag.
 * *Steps:*
   * We first need to download the provided file and open it in webshell that PicoCTF provided.
