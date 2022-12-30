@@ -24,13 +24,13 @@
   * ![Screenschot3 text](Screenshot3.png)
   * The file seems to have random numbers and letters when we tried to open it .
   * We can try to open the file and search for the word **pico** and see if that works. 
-  * `cat warm | grep pico`
+  * `cat warm | grep pico` 
     * *grep* is a command-line utility that searches for plain text in a file.
   * ![Screenschot4 text](Screenshot4.png)
   * We were not able to get the result because we can not use grep without any options to search a binary file, however, we can use **grep** and **-a** option to search the file. 
     * **-a** will process a binary file as if it were a text.
     * If you need to know more about **grep**, run **man grep** in your terminal.
-  * `cat warm | grep -a 'pico' `
+  * `cat warm | grep -a 'pico'`
   * ![Screenschot5 text](Screenshot5.png)
   * Also We can also use command **strings** and **grep** to search pico and it's one of the easiest ways to solve this challenge.
     * ** strings** is a command-line utility used to return string characters from a file.
