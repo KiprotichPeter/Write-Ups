@@ -13,15 +13,15 @@
   * -h and --help are the most common arguments to give to programs to get more information from them!
   * Not every program implements help features like -h and --help.
 * ![Screenschot1 text](Screenshot1.png)
-* *Objective:* 
+* *Objective:*  
   * Find the flag inside the provided flag.
 * *Steps:*
   * We first need to download the provided file and open it in webshell that PicoCTF provided.
-  * To download run wget{url file link}
+  * To download run wget{url file link}.
   * ![Screenschot2 text](Screenshot2.png)
   * Then open it with cat{file name}
   * ![Screenschot3 text](Screenshot3.png)
-  * The file seems to have random numbers and letters when we tried to open it .
+  * The file seems to have random numbers and letters when we tried to open it.
   * We can try to open the file and search for the word **pico** and see if that works. 
   * `cat warm | grep pico` 
     * *grep* is a command-line utility that searches for plain text in a file.
