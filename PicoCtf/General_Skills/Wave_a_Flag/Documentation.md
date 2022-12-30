@@ -4,8 +4,8 @@
   * General Skills
 * *Points:*
   * 10 Points
-* *Description:*
-  * Can you invoke help flags for a tool or binary? [This program](https://mercury.picoctf.net/static/a00f554b16385d9970dae424f66ee1ab/warm) has extraordinarily helpful information...
+* *Description:* 
+  * Can you invoke help flags for a tool or binary? [This program](https://mercury.picoctf.net/static/a00f554b16385d9970dae424f66ee1ab/warm) has extraordinarily helpful information... 
 * *Hints* 
   * This program will only work in the webshell or another Linux computer.
   * To get the file accessible in your shell, enter the following in the Terminal prompt: $ wget https://mercury.picoctf.net/static/a00f554b16385d9970dae424f66ee1ab/warm
